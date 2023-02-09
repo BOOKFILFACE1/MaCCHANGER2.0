@@ -1,1 +1,3 @@
 # MaCCHANGER2.0
+
+Este programa permite a los usuarios cambiar la dirección MAC (Media Access Control) de sus dispositivos de red de manera sencilla y eficiente. Con una interfaz de usuario intuitiva, el programa guía al usuario a través del proceso de cambio de MAC, incluyendo la selección de la nueva dirección MAC deseada y la aplicación de los cambios necesarios. Además, el programa ofrece opciones avanzadas para los usuarios más técnicos, como la posibilidad de automatizar el proceso de cambio de MAC y la compatibilidad con una amplia variedad de sistemas operativos. Con su fácil uso y su completa funcionalidad, este programa es una excelente herramienta para aquellos que buscan cambiar su dirección MAC de manera rápida y efectiva.
